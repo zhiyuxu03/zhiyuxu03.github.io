@@ -24,7 +24,7 @@
     venue: "CVPR 2026",
     conferenceFull: "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026",
     date: "2026/02/20",
-    background: "./pub-images/your-teaser-image.jpg",
+    background: "./pub-images/SciEducator_CM-4_proc.jpg",
     operations: [
       {
         action: "link",
@@ -33,19 +33,19 @@
         link: "https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_SciEducator_Scientific_Video_Understanding_and_Educating_via_Deming-Cycle_Multi-Agent_System_CVPR_2026_paper.pdf"
       },
       {
-        action: "",
+        action: "none",
         buttonName: "Project Page",
         buttonIcon: "fa-globe",
         link: ""
       },
       {
-        action: "",
+        action: "none",
         buttonName: "Code",
         buttonIcon: "fa-code",
         link: ""
       },
       {
-        action: "",
+        action: "none",
         buttonName: "Dataset",
         buttonIcon: "fa-database",
         link: ""
