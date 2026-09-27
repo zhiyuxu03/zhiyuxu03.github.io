@@ -25,7 +25,7 @@
     venue: "Under Review",
     conferenceFull: "The first GRPO framework designed for joint audio-video generation models",
     date: "2026/09/24",
-    background: "./pub-images/Figure_pipeline.pdf",
+    background: "./pub-images/Figure_AVGRPO.jpg",
     operations: [
       {
         action: "link",
