@@ -49,7 +49,7 @@
         action: "link",
         buttonName: "Dataset",
         buttonIcon: "fa-database",
-        link: "https://github.com/zhiyuxu03/AV-GRPO"
+        link: "https://github.com/zhiyuxu03/AV-GRPO/blob/main/AV-GRPO/Dataset/dataset.json"
       }
     ]
   },
