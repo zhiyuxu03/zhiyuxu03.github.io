@@ -23,7 +23,7 @@
     title: "AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation",
     authors: '<b><span class="me">Zhiyu Xu</span></b>, Weilong Yan, Yufei Shi, Shiyang Li, Yihao Liu, Kin-Man Lam, Yuewen Cao',
     venue: "Under Review",
-    conferenceFull: "The first GRPO framework designed for joint audio-video generation models",
+    conferenceFull: "The first GRPO framework designed for joint audio-video generation models.",
     date: "2026/09/24",
     background: "./pub-images/Figure_AVGRPO.jpg",
     operations: [
